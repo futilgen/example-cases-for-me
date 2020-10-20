@@ -1,2 +1,6 @@
-# hello-world
-Hello world new project template.
+# simple effect example
+applying grayscale effect to an image
+
+- one sprite
+- one material
+- one effect
