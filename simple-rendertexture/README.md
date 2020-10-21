@@ -1,2 +1,5 @@
-# hello-world
-Hello world new project template.
+# simple rendertexture example
+
+- one rendertexture
+- two sprite
+- two camera
